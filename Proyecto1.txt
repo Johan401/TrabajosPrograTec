@@ -1,3 +1,5 @@
 
 Facturar (a,b)
 precio = (a+b)
+
+Esto lo hizo Johan, favor no robar
