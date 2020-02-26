@@ -1,1 +1,3 @@
 
+Facturar (a,b)
+precio = (a+b)
